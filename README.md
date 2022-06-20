@@ -8,7 +8,7 @@ El siguiente repositorio posee proyectos relacionados con WebScraping, utilizand
 ### Descripción:
 
 El proyecto tiene cómo objetivo, mostrar el potencial de la libreria BeautifulSoap para llevar a cabo técnicas de WebScraping. En esta oportunidad, debido a mi pasión  por el fútbol y por el club Boca Juniors, he utilizado un sitio con información del club, dónde he tomado diferentes secciones de la página para realizar distintos  ejercicios con el fin de "Scrapear" información de interés, a través de la utilización de código Python.
-Para el desarollo del código fuente, se utilizará GoogleColab.
+Para el desarrollo del código fuente, se utilizará GoogleColab.
 
 Librerias utilizadas:
 
